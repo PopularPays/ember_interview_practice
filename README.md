@@ -6,6 +6,8 @@ Please build a simple Ember application that runs locally and displays a 5 day w
 
 You can use https://www.metaweather.com/api/#location or another free weather api if you prefer. You can find more working woe ids here https://www.metaweather.com/map/
 
+_Please use the latest version of Ember.js_
+
 ### Deliverable Details
 
 - should show a 5 day forecast with date, weather icon, high/low temp and weather description i.e. "snow or light rain"

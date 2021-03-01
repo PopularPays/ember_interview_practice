@@ -15,7 +15,7 @@ You can use https://www.metaweather.com/api/#location or another free weather ap
 
 ### Deliverables
 
-Please share the project that is runnable locally. Please share via a private github repo by adding @bauerjon as a collaborator.
+Please share the project that is runnable locally. To submit the project please archive the project in a ZIP and email it to `ian@popularpays.com`.
 
 ### Sample Api Requests
 

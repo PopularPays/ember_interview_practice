@@ -17,7 +17,7 @@ _Please use the latest version of Ember.js_
 
 ### Deliverables
 
-Please share the project that is runnable locally. To submit the project please archive the project in a ZIP and email it to `ian@popularpays.com`.
+Please share the project that is runnable locally. To submit the project please archive the project in a ZIP and email it to `engineering@popularpays.com`.
 
 ### Sample Api Requests
 

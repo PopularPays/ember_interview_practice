@@ -15,9 +15,13 @@ _Please use the latest version of Ember.js_
 - should show loading state when new woe id is submitted
 - please add appropriate test coverage
 
+We're living in a world where an increasing amount of users are accessing the web from a mobile device. Please design your layout to be mobile friendly as well as accessible from a normal laptop resolution.
+
 ### Deliverables
 
-Please share the project that is runnable locally. To submit the project please archive the project in a ZIP and email it to `engineering@popularpays.com`.
+We're looking to see you can handle working within a JS framework - the fundamentals of designing data flow as well as component layout. However you decide to style is up to you - we're assessing your ability of CSS and markup, as well as best practices, not design skills.
+
+Please share the project that is runnable locally. To submit the project please archive the project in a ZIP and email it to `justin@popularpays.com`.
 
 ### Sample Api Requests
 
